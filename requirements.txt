@@ -1,0 +1,20 @@
+# Orquestração e Interface
+streamlit
+python-dotenv
+
+# Core LangChain e Integrações (Padrão 2025)
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-chroma
+
+# Processamento de Documentos e Texto
+pypdf
+unstructured[docx]
+python-docx
+sentence-transformers
+
+# Utilidades
+chromadb
