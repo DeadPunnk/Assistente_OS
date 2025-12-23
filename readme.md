@@ -35,7 +35,7 @@ Clone o repositório:
 
 ```Bash
 
-git clone https://github.com/deadpunnk/assistente_os.git
+git clone https://github.com/DeadPunnk/assistente_os.git
 cd assistente_os
 
 ```
