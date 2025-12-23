@@ -67,7 +67,7 @@ Ollama: Runtime para execução de LLMs open-source.
 
 Streamlit: Framework para interfaces de dados.
 
-📂 Estrutura de Pastas
+## 📂 Estrutura de Pastas
 Plaintext
 
 ├── data/               # Documentos originais (PDF, DOCX, TXT)
