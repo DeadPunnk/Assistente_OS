@@ -33,30 +33,33 @@ Modelo Qwen carregado: ollama pull qwen3:4b (ou a versão de sua preferência).
 Instalação
 Clone o repositório:
 
-Bash
+```Bash
 
 git clone https://github.com/deadpunnk/assistente_os.git
 cd assistente_os
 Crie e ative um ambiente virtual:
-
-Bash
-
+```
+```Bash
 python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\activate
+
+```
+
 Instale as dependências:
-
-Bash
-
+```Bash
 pip install -r requirements.txt
+
+```
 Configure o arquivo .env com sua chave de API (opcional se usar apenas Ollama):
 
 Execução
 Inicie a interface do Streamlit:
 
-Bash
-
+```Bash
 streamlit run app.py
-🛠️ Tecnologias Utilizadas
+
+```
+## 🛠️ Tecnologias Utilizadas
 LangChain: Orquestração de componentes de LLM.
 
 ChromaDB: Banco de dados vetorial de alta performance.
