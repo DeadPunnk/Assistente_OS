@@ -37,8 +37,10 @@ Clone o repositório:
 
 git clone https://github.com/deadpunnk/assistente_os.git
 cd assistente_os
-Crie e ative um ambiente virtual:
+
 ```
+Crie e ative um ambiente virtual:
+
 ```Bash
 python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\activate
